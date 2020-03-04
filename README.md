@@ -7,10 +7,11 @@ To-do's:
 - [ ] graphs
 
 * Data Cleaning
-- [x] "keyword" column
+- [ ] "keyword" column
+    - [ ] tag and merge the ones with identical meanings (e.g. blow up/blew 	up)
 - [ ] "location" column
-    - We have to standardize a location format e.g. "city, state, nation"
-    - All meaningless entries will count towards "nan"
-    - Tradeoffs to investigate a specific address/location 
+    - [ ] standardiziing a location format e.g. "city, state, nation"
+    - [ ] classify all meaningless entries will count towards "nan"
+    - [ ] investigate and change specific addresses/locations 
 - [ ] "text" column
     
