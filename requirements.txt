@@ -3,3 +3,7 @@ pandas
 matplotlib
 seaborn
 sklearn
+nltk
+keras
+gensim
+tqdm
