@@ -2,7 +2,4 @@ numpy
 pandas
 matplotlib
 seaborn
-plotly
-imageio
-folium
-networkx
+sklearn
