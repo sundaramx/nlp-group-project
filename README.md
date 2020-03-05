@@ -1,5 +1,13 @@
-# nlp-group-project
 NLP Group Project
+
+## General Pipeline
+   * Cleaning and Preparation
+	- tokenize 
+   * Naive Bayes Model: non-neural method
+   * Neural Net using BERT or some other embeddings
+	- go for a F1 score in the 80's
+   * Developing a suitable embeddings that suits disasters well
+	- NNLM
 
 ## Installing Dependencies:    
     * [NOTE] TensorFlow is currently not available for Python 3.8.0+
