@@ -2,17 +2,17 @@
 NLP Group Project
 
 ## Installing Dependencies:
-    'pip install -r requirements.txt`    
-    * [NOTE] TensorFlow is currently not available for Python 3.8+
+    * Run `pip install -r requirements.txt`    
+    * [NOTE] TensorFlow is currently not available for Python 3.8.0+
 
 ## Downloading NLTK Corpuses:
     * Either run nltk_dl.py file or run the following line in a python executor:
-    'import nltk'
-    'nltk.download('stopwords')'
-    'nltk.download('reuters')'
+    `import nltk`
+    `nltk.download('stopwords')`
+    `nltk.download('reuters')`
 
     If nltk.download('corpus_name') conflicts causes an issue, you may also instead run this command and follow its navigation: 
-    'nltk.download_shell()' 
+    `nltk.download_shell()`
 
 ## Checkpoints:
 * EDA
