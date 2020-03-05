@@ -1,7 +1,11 @@
 # nlp-group-project
 NLP Group Project
 
-To-do's:
+## Installing Dependencies:
+    - `pip install -r requirements.txt`
+    - [NOTE] TensorFlow is currently not available for Python 3.8+
+
+## Checkpoints:
 * EDA
 - [x] basics
 - [ ] graphs
